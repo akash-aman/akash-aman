@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-aman&show_icons=true&locale=en&layout=compact" alt="akash-aman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-aman&show_icons=true&locale=en" alt="akash-aman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-aman&" alt="akash-aman" /></p>
