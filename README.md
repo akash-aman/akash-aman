@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [Crispy System](https://crispy-system.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://akash.cx](https://akash.cx)
-
-- 📝 I regularly write articles on [https://crispy-system.vercel.app](https://crispy-system.vercel.app)
-
 - 💬 Ask me about **React JS**
 
 - 📫 How to reach me **sir.akashaman@gmail.com**
