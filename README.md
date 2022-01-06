@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **No fun fact**
 
-<h3 align="left"> Currently Learning </h3>
+<h3 align="left"> Currently Learning: </h3>
 
 - Docker & orchestration
 
