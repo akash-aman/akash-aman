@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Akash 😃</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃</h1>
 <h3 align="center">A passionate learner of new web technology 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-aman&label=Profile%20views&color=0e75b6&style=flat" alt="akash-aman" /> </p>
