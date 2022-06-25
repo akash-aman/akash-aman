@@ -1,7 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃</h1>
-<h3 align="center">A passionate learner of new web technology 🚀</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | B.E. `22 | Software Dev </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-aman&label=Profile%20views&color=0e75b6&style=flat" alt="akash-aman" /> </p>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 - 🔭 I’m currently working on [Crispy System](https://under19.in)
 
