@@ -28,12 +28,13 @@
 
 
 <span>
+  <a href="https://github.com/akash-aman/frontend_search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-aman&repo=frontend_search" />
+</a>
 <a href="https://github.com/akash-aman/markdown_previewer">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-aman&repo=markdown_previewer" />
 </a>
-<a href="https://github.com/akash-aman/frontend_search">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-aman&repo=frontend_search" />
-</a>
+
   <a href="https://github.com/akash-aman/content_management_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-aman&repo=content_management_system" />
 </a>
