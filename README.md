@@ -6,7 +6,7 @@
 - 👨‍💻 Currently working on web development technologies JavaScript, React, Redux, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Exploring great open source repos, Check out my pinned below 👇
+- ⚡ Exploring great open source repos, ***Check out my pinned below*** 👇
 
 ## Connect with me:
 <p align="left">
@@ -19,7 +19,6 @@
 
 <p style="display: flex">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" />
-  
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
