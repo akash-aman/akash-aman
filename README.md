@@ -2,20 +2,17 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-- 🔭 I’m currently working on [Crispy System](https://under19.in)
-- 💬 Ask me about **React JS**, <img src="https://radiation.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc764c1c1-2924-44b9-b598-07618c13bbad%2Fnginx-icon.svg?table=block&id=63e2fdd6-28a5-4c1b-a828-5dd86f625e33&spaceId=7fe21b7f-48cd-4f84-a085-83bae230c632&userId=&cache=v2" alt="dart" width="20" height="20"/> [**Nginx**](https://radiation.notion.site/NGINX-63e2fdd628a54c1ba8285dd86f625e33)
-- 📫 How to reach me **sir.akashaman@gmail.com**
-- ⚡ Fun fact **No fun fact**
 
-## Currently Learning:
-
-- Docker & orchestration
+- 👨‍💻 Currently working on web development technologies JavaScript, React, Redux, CSS etc.
+- 📚 Learning everything about Frontend and Backend technologies 😉.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Exploring great open source repos, [Check out my pinneds](#choose-pinned-repositories)
 
 ## Connect with me:
 <p align="left">
 
-<a  href="https://www.linkedin.com/in/aman-akash/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="react" width="25" height="25" />  </a>
-<a  href="mailto:sir.akashaman@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="react" width="25" height="25" />
+<a  href="https://www.linkedin.com/in/aman-akash/"><img style="margin-left:2px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="react" width="35" height="25" /></a>
+<a  href="mailto:sir.akashaman@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="react" width="28" height="25" />
 </p>
 
 ## Tools
