@@ -8,7 +8,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Exploring great open source repos, ***Check out my pinned below*** 👇
 
-## Connect with me:
+## Connect with me
 <p align="left">
 
 <a  href="https://www.linkedin.com/in/aman-akash/"><img style="margin-left:2px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="react" width="35" height="25" /></a>
