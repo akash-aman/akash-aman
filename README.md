@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | B.E. `22 | Software Dev </h1>
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://raw.githubusercontent.com/akash-aman/akash-aman/main/header_.png)
 
 
 - 👨‍💻 Currently working on web development technologies JavaScript, React, Redux, CSS etc.
