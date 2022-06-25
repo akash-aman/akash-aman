@@ -6,7 +6,7 @@
 - 👨‍💻 Currently working on web development technologies JavaScript, React, Redux, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Exploring great open source repos, [Check out my pinneds](#choose-pinned-repositories)
+- ⚡ Exploring great open source repos, Check out my pinned below 👇
 
 ## Connect with me:
 <p align="left">
