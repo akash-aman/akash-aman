@@ -1,11 +1,12 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | B.E. `22 | Software Dev </h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | Software Dev </h1>
 
 ![](https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/back.svg)
 
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, Redux, CSS etc.
-- 📚 Learning everything about Frontend and Backend technologies 😉.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Web Developer | JavaScript, React, svelte, next JS, Redux, CSS, Golang, C# | 📚 Learning Backend technologies.
+- 🌐 Exploring Backend technologies, particularly interested in Go (Golang) and .NET for microservices architecture.
+- 💡 Passionate about microservices architecture and building scalable web applications.
+- 💪🏼 Future Goals: Mastering in architecting highly scalable and performant applications.
 - ⚡ Exploring great open source repos, ***Check out my pinned below*** 👇
 
 ## Connect with me
@@ -20,6 +21,7 @@
 ## Tools
 
 <p style="display: flex">
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/icons/go.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
