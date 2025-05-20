@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | Software Dev </h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Akash 😃 | Learner | Senior Software Dev </h1>
 
 ![](https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/back.svg)
 
-- 👨‍💻 Web Developer | JavaScript, React, Svelte, Next.js, Redux, CSS, Golang, C#
+- 👨‍💻 Senior Software Dev | JavaScript, React, Svelte, Next.js, Redux, CSS, Golang, C#
 - 🌐 Experienced in building and scaling backend systems using Go (Golang) and .NET in microservices architecture.
 - 💡 Passionate about designing scalable and maintainable applications with clean architecture principles.
 - 🚀 Actively contributing to and exploring impactful open source projects — check out my pinned repos below 👇
