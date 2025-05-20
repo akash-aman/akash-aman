@@ -13,7 +13,7 @@
 
 <a  href="https://www.linkedin.com/in/aman-akash/"><img style="margin-left:2px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="react" width="35" height="25" /></a>
 <a  href="mailto:sir.akashaman@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="react" width="35" height="25" />
-  <a alt="resume"  href="https://drive.google.com/file/d/1ktL10iZd8rbtyX8QbXvx04SoLqpommK4/view?usp=sharing"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/cv.svg" alt="react" width="35" height="25" /></a>
+  <a alt="resume"  href="https://drive.google.com/file/d/1ktL10iZd8rbtyX8QbXvx04SoLqpommK4/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/cv.svg" alt="react" width="35" height="25" /></a>
   [<img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" style="height: 25px; width:20px;"/>](https://leetcode.com/akash-aman/)
 </p>
 
