@@ -2,12 +2,11 @@
 
 ![](https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/back.svg)
 
-
-- 👨‍💻 Web Developer | JavaScript, React, svelte, next JS, Redux, CSS, Golang, C# | 📚 Learning Backend technologies.
-- 🌐 Exploring Backend technologies, particularly interested in Go (Golang) and .NET for microservices architecture.
-- 💡 Passionate about microservices architecture and building scalable web applications.
-- 💪🏼 Future Goals: Mastering in architecting highly scalable and performant applications.
-- ⚡ Exploring great open source repos, ***Check out my pinned below*** 👇
+- 👨‍💻 Web Developer | JavaScript, React, Svelte, Next.js, Redux, CSS, Golang, C#
+- 🌐 Experienced in building and scaling backend systems using Go (Golang) and .NET in microservices architecture.
+- 💡 Passionate about designing scalable and maintainable applications with clean architecture principles.
+- 🚀 Actively contributing to and exploring impactful open source projects — check out my pinned repos below 👇
+- 🎯 Future Goals: Leading architecture design for high-performance distributed systems.
 
 ## Connect with me
 <p align="left">
