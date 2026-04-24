@@ -29,35 +29,17 @@
 ## 📫 Connect with me
 
 <p align="left">
-<a  href="https://www.linkedin.com/in/aman-akash/"><img style="margin-left:2px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="linkedin" width="35" height="25" /></a>
-<a  href="mailto:sir.akashaman@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" alt="gmail" width="35" height="25" /></a>
-<a href="https://drive.google.com/file/d/1ktL10iZd8rbtyX8QbXvx04SoLqpommK4/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/cv.svg" alt="resume" width="35" height="25" /></a>
-<a href="https://leetcode.com/akash-aman/"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" alt="leetcode" width="30" height="25"/></a>
+<a href="https://www.linkedin.com/in/aman-akash/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" width="25"/> </a> 
+<a href="mailto:sir.akashaman@gmail.com"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg" width="25"/> </a> 
+<a href="https://drive.google.com/file/d/1ktL10iZd8rbtyX8QbXvx04SoLqpommK4/view"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/cv.svg" width="25"/> </a> 
+<a href="https://leetcode.com/akash-aman/"><img src="https://raw.githubusercontent.com/akash-aman/akash-aman/main/icons/leetcode.svg" width="25"/> </a> 
 </p>
-
 
 ---
 
 ## 🛠 Tools & Tech
 
-<p style="display: flex">
-<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/icons/go.svg" alt="Golang" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="React" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="SASS" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="TypeScript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/graphql.svg" alt="GraphQL" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" alt="C#" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="Node.js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="Python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" alt="NGINX" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="Netlify" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="AWS" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="GCP" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="Azure" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
-</p>
+<p><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/icons/go.svg" width="25"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" width="25"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/graphql.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" width="25"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" width="25"/> </p>
 
 ---
 
