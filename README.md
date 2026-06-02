@@ -6,7 +6,9 @@
 - 🌐 Experienced in building and scaling backend systems using Go (Golang) and .NET in microservices architecture.
 - 💡 Passionate about designing scalable and maintainable applications with clean architecture principles.
 - 🚀 Actively contributing to and exploring impactful open source projects — check out my pinned repos below 👇
-- 🧩 **Creator of [Dynamix Layout](https://layout.xcode.cx)** – A VS Code–style layout system built for the web. Build resizable, dockable multi-panel UIs with ease using a framework-agnostic core and official React wrapper.
+- 🧩 **Creator of [Dynamix Layout](https://layout.xcode.cx)** – An open-source TypeScript layout engine for building VS Code–style applications with draggable tabs, dockable panels, resizable splits, layout persistence, and React/SolidJS wrappers.
+- 🤖 **Creator of [Blackbox](https://blackbox.xcode.cx/)** – An MCP-powered developer platform that connects AI agents directly to the VS Code debugger, enabling breakpoint management, variable inspection, and expression evaluation through natural language.
+- ⚡ **Creator of [WPX](https://wpx.xcode.cx/)** – An AI-first native WordPress development toolkit for macOS Apple Silicon featuring a Go-powered stack, 55+ MCP tools, advanced diagnostics, fast database imports, and a desktop GUI with a Cursor-style AI assistant.
 - 🎯 Future Goals: Leading architecture design for high-performance distributed systems.
 
 ---
