@@ -9,6 +9,7 @@
 - 🧩 **Creator of [Dynamix Layout](https://layout.xcode.cx)** – An open-source TypeScript layout engine for building VS Code–style applications with draggable tabs, dockable panels, resizable splits, layout persistence, and React/SolidJS wrappers.
 - 🤖 **Creator of [Blackbox](https://blackbox.xcode.cx/)** – An MCP-powered developer platform that connects AI agents directly to the VS Code debugger, enabling breakpoint management, variable inspection, and expression evaluation through natural language.
 - ⚡ **Creator of [WPX](https://wpx.xcode.cx/)** – An AI-first native WordPress development toolkit for macOS Apple Silicon featuring a Go-powered stack, 55+ MCP tools, advanced diagnostics, fast database imports, and a desktop GUI with a Cursor-style AI assistant.
+- 🧰 **Creator of [Skills](https://github.com/akash-aman/skills)** – Curated AI-agent skill packs as plain Markdown that work with any file-reading tool (Claude Code, Copilot, Cursor, custom agents), invokable as `/design`, `/cleancode`, and `/caveman`.
 - 🎯 Future Goals: Leading architecture design for high-performance distributed systems.
 
 ---
@@ -26,7 +27,14 @@
 
 ---
 
+## 🧰 Skills & MCP
 
+> Curated AI-agent skills and ready-to-use MCP configs — drop-in setup for Claude Code, Copilot, Cursor, and custom agents.
+
+- 🗂️ **[Skills](https://github.com/akash-aman/skills)** – Curated AI-agent skill packs as plain Markdown, each with a `SKILL.md` router and `index.md`. Invoke `/design` (UI artifacts — landing pages, decks, dashboards, posters, mobile apps), `/cleancode` (per-language Clean Code guidance & refactors for JS, TS, Python, PHP, Go), and `/caveman` (token-efficient communication, commits, and reviews).
+- ⚙️ **[Skills & MCP Config Reference](https://gist.github.com/akash-aman/b92a8e32934046ca63fccd27766b7eeb)** – A handy gist with `MCP.md` (ready-to-use MCP server configs for n8n, DuckDuckGo, Google Sheets/Docs, Blackbox, and WPX, plus config paths for each client) and `SKILLS.md` (skill-setup paths across GitHub Copilot CLI, Claude Code, Agents, and Command Code).
+
+---
 
 ## 📫 Connect with me
 
@@ -48,4 +56,3 @@
 ## 🖥️ WorkSpace
 
 ![A1_00514](https://github.com/user-attachments/assets/c2d9e005-2ec6-4f36-80d8-7a46fc83d4c6)
-
